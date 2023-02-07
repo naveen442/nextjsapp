@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Head from "next/head"
-import { Container, Row, Col } from "reactstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import Image from 'next/image'
 import styles from "../../styles/SMS.module.css";
 import { Card, Grid, Text } from "@nextui-org/react";
